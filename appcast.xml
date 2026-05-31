@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1247-beta+d569b1a</title>
+      <guid isPermaLink="false">d569b1aa0bfeeed273559eaf1942f643c7294141</guid>
+      <sparkle:version>1247</sparkle:version>
+      <sparkle:shortVersionString>0.1.1247-beta+d569b1a</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 31 May 2026 13:19:21 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1247 · d569b1a</h3><ul><li>feat(export): 状态栏菜单「导出…」——JSON/Markdown/SQLite + blob (#54)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1247-beta+d569b1a/DuoPaste-0.1.1247-beta+d569b1a.dmg" sparkle:edSignature="6OMV6PcWwkQ+4XkSq7f4P4pCrthwE0XyyToE9/su7HG42acrd22Nm1MLZUHPjgPAJfpQTXX1u+880ywOp3i1Dg==" length="11040948" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1246-beta+3d80e4c</title>
       <guid isPermaLink="false">3d80e4c72f602e644ce04692ca78cf5d9ac8b421</guid>
       <sparkle:version>1246</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 31 May 2026 01:57:08 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1246 · 3d80e4c</h3><ul><li>docs: CLAUDE.md 补 CI 发布链 + self-hosted runner 设置(代理/指纹签/Sparkle 私钥三坑) (#53)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1246 · 3d80e4c&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;docs: CLAUDE.md 补 CI 发布链 + self-hosted runner 设置(代理/指纹签/Sparkle 私钥三坑) (#53)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1246-beta+3d80e4c/DuoPaste-0.1.1246-beta+3d80e4c.dmg" sparkle:edSignature="pVTL8gBUE5riXu242bM1m79c408PGrnQCIcxsY01kFbYwbdt6olJbvyWvWZQtlrdnrxyAxBCeDMiXxw8tvgxCg==" length="11030920" type="application/octet-stream" />
     </item>
     <item>
