@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1246-beta+3d80e4c</title>
+      <guid isPermaLink="false">3d80e4c72f602e644ce04692ca78cf5d9ac8b421</guid>
+      <sparkle:version>1246</sparkle:version>
+      <sparkle:shortVersionString>0.1.1246-beta+3d80e4c</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 31 May 2026 01:57:08 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1246 · 3d80e4c</h3><ul><li>docs: CLAUDE.md 补 CI 发布链 + self-hosted runner 设置(代理/指纹签/Sparkle 私钥三坑) (#53)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1246-beta+3d80e4c/DuoPaste-0.1.1246-beta+3d80e4c.dmg" sparkle:edSignature="pVTL8gBUE5riXu242bM1m79c408PGrnQCIcxsY01kFbYwbdt6olJbvyWvWZQtlrdnrxyAxBCeDMiXxw8tvgxCg==" length="11030920" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1245-beta+b5ad099</title>
       <guid isPermaLink="false">b5ad0994ce6b5f622c4a0fd08ee6f403f3a04492</guid>
       <sparkle:version>1245</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 31 May 2026 01:47:40 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1245 · b5ad099</h3><ul><li>fix(ci): release codesign 按 SHA-1 指纹签,解 self-hosted 开发机 keychain ambiguous (#52)</li><li>chore(update): 收 PR#50 review 5 条 nit (#51)</li><li>feat(update): Sparkle 自动更新——KeepAlive daemon 方案 A + CI 发布链 (#50)</li><li>fix(capture): 终端 selection html 走等价判别降级 plain,vim 复制 HTML 源码零丢失 (#49)</li><li>feat(search): server /search 透传 qualifier 消除 client 端 pagination 盲区 (#48)</li><li>test(ios): Backoff.failuresCap 抽到 DuoPasteCore + 5 个 case 钉契约 (#47)</li><li>test(ios): HistoryStore.filtered 四分支抽到 DuoPasteCore + 集成测试 (#46)</li><li>fix(ios): HistoryView 本机 filter 改同步,只对 server search debounce (#45)</li><li>feat(ios): 类型筛选改 Mail 风格 chip 行,Mac 多 chip 加 "任一:" prefix (#40)</li><li>docs: CLAUDE.md TLS 节加 "SAN 是真相，cert 文件名只是习惯"</li><li>fix(endpoints): tailscale 候选读 cert SAN 拿 FQDN 不再用 filename stem</li><li>fix(endpoints): cert stem 剥 .dual + 弃用 ProcessInfo.hostName (#37)</li><li>docs: README 测试数从 13 → 270（顺便 smoke test claude review action） (#39)</li><li>fix(ios): backoff cap 拉到 300s + 网络变化/长连接 reset failures (#38)</li><li>fix(ios): scene→active 立刻 tickStatus + kickPull 关 resume 后 ~5s 等 tick (#35) (#36)</li><li>feat(ios): fold-aware optimistic delete — cascade + grace skip 关 "删了又出现" 闪回 (#34)</li><li>三端删除一致性 — softDelete cascade + PullWorker own-tombstone 接收 + Mac UI 删除入口 (#32)</li><li>feat(paste): paste 成功后 bump used items——Mac 端"用过即顶"对齐 iOS</li><li>feat(preview): ⌘C 复制选中 / ⌘A 全选 + 图片 Live Text——预览面板对齐 QuickLook 心智</li><li>feat(search): FTS snippet 上下文窗口 8 → 64 token——卡片尽量多带匹配上下文</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1245 · b5ad099&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;fix(ci): release codesign 按 SHA-1 指纹签,解 self-hosted 开发机 keychain ambiguous (#52)&lt;/li&gt;&lt;li&gt;chore(update): 收 PR#50 review 5 条 nit (#51)&lt;/li&gt;&lt;li&gt;feat(update): Sparkle 自动更新——KeepAlive daemon 方案 A + CI 发布链 (#50)&lt;/li&gt;&lt;li&gt;fix(capture): 终端 selection html 走等价判别降级 plain,vim 复制 HTML 源码零丢失 (#49)&lt;/li&gt;&lt;li&gt;feat(search): server /search 透传 qualifier 消除 client 端 pagination 盲区 (#48)&lt;/li&gt;&lt;li&gt;test(ios): Backoff.failuresCap 抽到 DuoPasteCore + 5 个 case 钉契约 (#47)&lt;/li&gt;&lt;li&gt;test(ios): HistoryStore.filtered 四分支抽到 DuoPasteCore + 集成测试 (#46)&lt;/li&gt;&lt;li&gt;fix(ios): HistoryView 本机 filter 改同步,只对 server search debounce (#45)&lt;/li&gt;&lt;li&gt;feat(ios): 类型筛选改 Mail 风格 chip 行,Mac 多 chip 加 "任一:" prefix (#40)&lt;/li&gt;&lt;li&gt;docs: CLAUDE.md TLS 节加 "SAN 是真相，cert 文件名只是习惯"&lt;/li&gt;&lt;li&gt;fix(endpoints): tailscale 候选读 cert SAN 拿 FQDN 不再用 filename stem&lt;/li&gt;&lt;li&gt;fix(endpoints): cert stem 剥 .dual + 弃用 ProcessInfo.hostName (#37)&lt;/li&gt;&lt;li&gt;docs: README 测试数从 13 → 270（顺便 smoke test claude review action） (#39)&lt;/li&gt;&lt;li&gt;fix(ios): backoff cap 拉到 300s + 网络变化/长连接 reset failures (#38)&lt;/li&gt;&lt;li&gt;fix(ios): scene→active 立刻 tickStatus + kickPull 关 resume 后 ~5s 等 tick (#35) (#36)&lt;/li&gt;&lt;li&gt;feat(ios): fold-aware optimistic delete — cascade + grace skip 关 "删了又出现" 闪回 (#34)&lt;/li&gt;&lt;li&gt;三端删除一致性 — softDelete cascade + PullWorker own-tombstone 接收 + Mac UI 删除入口 (#32)&lt;/li&gt;&lt;li&gt;feat(paste): paste 成功后 bump used items——Mac 端"用过即顶"对齐 iOS&lt;/li&gt;&lt;li&gt;feat(preview): ⌘C 复制选中 / ⌘A 全选 + 图片 Live Text——预览面板对齐 QuickLook 心智&lt;/li&gt;&lt;li&gt;feat(search): FTS snippet 上下文窗口 8 → 64 token——卡片尽量多带匹配上下文&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1245-beta+b5ad099/DuoPaste-0.1.1245-beta+b5ad099.dmg" sparkle:edSignature="JS1XJ1Yu+HSbX09+6aNw49ae8ffBrL7N3xviYyRzxU7O+UcKIj7WBL8c1cZBfEgu4XDbapmsgp5byalgu3/CBQ==" length="11031140" type="application/octet-stream" />
     </item>
   </channel>
