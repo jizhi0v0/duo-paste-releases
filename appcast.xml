@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1249-beta+3079150</title>
+      <guid isPermaLink="false">307915020b56a397d21543b021dabf462c3f0e6a</guid>
+      <sparkle:version>1249</sparkle:version>
+      <sparkle:shortVersionString>0.1.1249-beta+3079150</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 01 Jun 2026 00:17:13 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1249 · 3079150</h3><ul><li>feat(export): test hardening + VACUUM UX + finishExport helper (#57)</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1249-beta+3079150/DuoPaste-0.1.1249-beta+3079150.dmg" sparkle:edSignature="ZwRJUrsZscAY8OlC/TH+L7skKeFluF0pG/5JH4jzWqpitscEi5o+zYHj9ITJQGIboOU2/ot+AG3SAzydI7hhCA==" length="11049200" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1248-beta+3f28d52</title>
       <guid isPermaLink="false">3f28d52516d7064c932d5eaca6498d3ef04e7402</guid>
       <sparkle:version>1248</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Sun, 31 May 2026 16:12:45 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1248 · 3f28d52</h3><ul><li>feat(export): fold-aware + streaming + progress + cancel + cleanup (#55)</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1248 · 3f28d52&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;feat(export): fold-aware + streaming + progress + cancel + cleanup (#55)&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1248-beta+3f28d52/DuoPaste-0.1.1248-beta+3f28d52.dmg" sparkle:edSignature="XNRNZiCVntRiF4TH48WsZloqTycaIVBX3jLho+5jEKYut01WW0IjP0psUeo+FqATyPTbBXGJ67SYjgIIgbrjDQ==" length="11048556" type="application/octet-stream" />
     </item>
     <item>
