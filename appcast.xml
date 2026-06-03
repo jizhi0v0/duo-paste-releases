@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1251-beta+962a0e1</title>
+      <guid isPermaLink="false">962a0e1f8c0c7fe246162c8eec8d2db391faf87f</guid>
+      <sparkle:version>1251</sparkle:version>
+      <sparkle:shortVersionString>0.1.1251-beta+962a0e1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 03 Jun 2026 10:44:01 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1251 · 962a0e1</h3><ul><li>Fix preview identity reuse</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1251-beta+962a0e1/DuoPaste-0.1.1251-beta+962a0e1.dmg" sparkle:edSignature="ONP4l0Mm3KOWnu8zJr3U7dTZaGGypFQlKMV+jWfuX+isip4eBpjUoTOO+3M5JPccxTC1x6MqsNAxk1Z6ZTHpCg==" length="11050078" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1250-beta+1af4559</title>
       <guid isPermaLink="false">1af45592c502601c1133fc8729ee610c1182b3be</guid>
       <sparkle:version>1250</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 01 Jun 2026 03:27:55 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1250 · 1af4559</h3><ul><li>Fix Sparkle install and relaunch flow</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1250 · 1af4559&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fix Sparkle install and relaunch flow&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1250-beta+1af4559/DuoPaste-0.1.1250-beta+1af4559.dmg" sparkle:edSignature="la8NkKJiPVIshnS9zuIpAsfdl1Hq9utLyuVLwly89uYWys90K4Ad0rnzZYdHWaSjVvQWYUL9kIsk+mWfrNrZDA==" length="11050722" type="application/octet-stream" />
     </item>
     <item>
