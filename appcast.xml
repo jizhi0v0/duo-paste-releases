@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1253-beta+70cbfd0</title>
+      <guid isPermaLink="false">70cbfd0ae9b84eeede95ba7b17e20b73fe5f907d</guid>
+      <sparkle:version>1253</sparkle:version>
+      <sparkle:shortVersionString>0.1.1253-beta+70cbfd0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 16 Jul 2026 03:26:44 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1253 · 70cbfd0</h3><ul><li>Refine cross-device dedup and macOS UI</li><li>Crash hardening + in-flight WIP</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1253-beta+70cbfd0/DuoPaste-0.1.1253-beta+70cbfd0.dmg" sparkle:edSignature="+l3vbfcCauUk+g0oJYZfKoccaCC/9iP4YRMKFels482MTtj6csrY54HiCOjfPumDG99f+K5t74/IUlFfp+PmDA==" length="11054431" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1251-beta+962a0e1</title>
       <guid isPermaLink="false">962a0e1f8c0c7fe246162c8eec8d2db391faf87f</guid>
       <sparkle:version>1251</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 03 Jun 2026 10:44:01 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1251 · 962a0e1</h3><ul><li>Fix preview identity reuse</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1251 · 962a0e1&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fix preview identity reuse&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1251-beta+962a0e1/DuoPaste-0.1.1251-beta+962a0e1.dmg" sparkle:edSignature="ONP4l0Mm3KOWnu8zJr3U7dTZaGGypFQlKMV+jWfuX+isip4eBpjUoTOO+3M5JPccxTC1x6MqsNAxk1Z6ZTHpCg==" length="11050078" type="application/octet-stream" />
     </item>
     <item>
