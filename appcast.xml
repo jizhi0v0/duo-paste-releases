@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1260-beta+01f9744</title>
+      <guid isPermaLink="false">01f9744505d10a389a5dfc1b1cc4b3e4f180e24b</guid>
+      <sparkle:version>1260</sparkle:version>
+      <sparkle:shortVersionString>0.1.1260-beta+01f9744</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 17 Jul 2026 07:10:32 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1260 · 01f9744</h3><ul><li>Fix release build actor capture</li><li>Complete R3.3-R4.2 search roadmap</li><li>Add saved search views</li><li>Add custom search date ranges</li><li>Complete iOS sync status roadmap</li><li>Record final R2.1 iPhone verification</li><li>Complete roadmap R0-R2.1 hardening</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1260-beta+01f9744/DuoPaste-0.1.1260-beta+01f9744.dmg" sparkle:edSignature="SDpEHW5NSnuZnC/tTW5cDTIbtMy1FYADnqdVDt47ogOkIPa/fKN82vDMPOjyW4VGNlW0ifWhjBTi93rm2RkSCQ==" length="11655729" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1253-beta+70cbfd0</title>
       <guid isPermaLink="false">70cbfd0ae9b84eeede95ba7b17e20b73fe5f907d</guid>
       <sparkle:version>1253</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 16 Jul 2026 03:26:44 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1253 · 70cbfd0</h3><ul><li>Refine cross-device dedup and macOS UI</li><li>Crash hardening + in-flight WIP</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1253 · 70cbfd0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Refine cross-device dedup and macOS UI&lt;/li&gt;&lt;li&gt;Crash hardening + in-flight WIP&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1253-beta+70cbfd0/DuoPaste-0.1.1253-beta+70cbfd0.dmg" sparkle:edSignature="+l3vbfcCauUk+g0oJYZfKoccaCC/9iP4YRMKFels482MTtj6csrY54HiCOjfPumDG99f+K5t74/IUlFfp+PmDA==" length="11054431" type="application/octet-stream" />
     </item>
     <item>
