@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1262-beta+a04e170</title>
+      <guid isPermaLink="false">a04e1702343d7a14147d18fea38c75705db1807b</guid>
+      <sparkle:version>1262</sparkle:version>
+      <sparkle:shortVersionString>0.1.1262-beta+a04e170</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 23 Jul 2026 07:57:54 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1262 · a04e170</h3><ul><li>Fix SmartTransport.PeerDecision Equatable to ignore RTT jitter</li><li>Ignore JetBrains IDE project files</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1262-beta+a04e170/DuoPaste-0.1.1262-beta+a04e170.dmg" sparkle:edSignature="e9kPwI+mfViyPpb1o8FOqIcjV9sQPNdXtDmCLw+e5k42yglZHuug2AVtFcmTPfq2dGowoCdLZ1dKdWNkjG7ADw==" length="11655125" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1260-beta+01f9744</title>
       <guid isPermaLink="false">01f9744505d10a389a5dfc1b1cc4b3e4f180e24b</guid>
       <sparkle:version>1260</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 17 Jul 2026 07:10:32 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1260 · 01f9744</h3><ul><li>Fix release build actor capture</li><li>Complete R3.3-R4.2 search roadmap</li><li>Add saved search views</li><li>Add custom search date ranges</li><li>Complete iOS sync status roadmap</li><li>Record final R2.1 iPhone verification</li><li>Complete roadmap R0-R2.1 hardening</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1260 · 01f9744&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fix release build actor capture&lt;/li&gt;&lt;li&gt;Complete R3.3-R4.2 search roadmap&lt;/li&gt;&lt;li&gt;Add saved search views&lt;/li&gt;&lt;li&gt;Add custom search date ranges&lt;/li&gt;&lt;li&gt;Complete iOS sync status roadmap&lt;/li&gt;&lt;li&gt;Record final R2.1 iPhone verification&lt;/li&gt;&lt;li&gt;Complete roadmap R0-R2.1 hardening&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1260-beta+01f9744/DuoPaste-0.1.1260-beta+01f9744.dmg" sparkle:edSignature="SDpEHW5NSnuZnC/tTW5cDTIbtMy1FYADnqdVDt47ogOkIPa/fKN82vDMPOjyW4VGNlW0ifWhjBTi93rm2RkSCQ==" length="11655729" type="application/octet-stream" />
     </item>
     <item>
