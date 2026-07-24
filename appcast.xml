@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1267-beta+746abed</title>
+      <guid isPermaLink="false">746abed381c94cbf1b3261bd128e43c9f6b16d81</guid>
+      <sparkle:version>1267</sparkle:version>
+      <sparkle:shortVersionString>0.1.1267-beta+746abed</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 24 Jul 2026 03:32:13 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1267 · 746abed</h3><ul><li>Document the AppKit Settings window and preview-panel ordering rules</li><li>Order the preview panel outside the SwiftUI layout pass</li><li>Own the Settings window in AppKit instead of a SwiftUI scene</li><li>Fold image file/image representations of the same SHA</li><li>Read image file blobs through resolved symlinks with retry</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1267-beta+746abed/DuoPaste-0.1.1267-beta+746abed.dmg" sparkle:edSignature="yvp/RiXVq1lznKCrzVwl/o8qnto8Ge7HoECwpMpaIDeS2JFhHAl0gedDSjH6HAW5EaJ9dmZ4qNSkR3vlB+zgCQ==" length="11689445" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1262-beta+a04e170</title>
       <guid isPermaLink="false">a04e1702343d7a14147d18fea38c75705db1807b</guid>
       <sparkle:version>1262</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Thu, 23 Jul 2026 07:57:54 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1262 · a04e170</h3><ul><li>Fix SmartTransport.PeerDecision Equatable to ignore RTT jitter</li><li>Ignore JetBrains IDE project files</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1262 · a04e170&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Fix SmartTransport.PeerDecision Equatable to ignore RTT jitter&lt;/li&gt;&lt;li&gt;Ignore JetBrains IDE project files&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1262-beta+a04e170/DuoPaste-0.1.1262-beta+a04e170.dmg" sparkle:edSignature="e9kPwI+mfViyPpb1o8FOqIcjV9sQPNdXtDmCLw+e5k42yglZHuug2AVtFcmTPfq2dGowoCdLZ1dKdWNkjG7ADw==" length="11655125" type="application/octet-stream" />
     </item>
     <item>
