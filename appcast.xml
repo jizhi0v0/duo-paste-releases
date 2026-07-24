@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1269-beta+9c7aa27</title>
+      <guid isPermaLink="false">9c7aa273fd80a0d20ea1a422d1e52f93954c1e6f</guid>
+      <sparkle:version>1269</sparkle:version>
+      <sparkle:shortVersionString>0.1.1269-beta+9c7aa27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 24 Jul 2026 03:58:25 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1269 · 9c7aa27</h3><ul><li>Adopt the LaunchAgent at startup and refuse unknown CLI args</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1269-beta+9c7aa27/DuoPaste-0.1.1269-beta+9c7aa27.dmg" sparkle:edSignature="Yo+GbkqHWl/iwOPWfZUyNB/piB3CwyKsGCdcHgVcBIlAEVVzW5TGQkHuTjofy/qS0XNztMR1Ljf1fR4TDvatBg==" length="11692004" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1268-beta+f298da1</title>
       <guid isPermaLink="false">f298da15fd0238a93117f832bb1e557c3c2937cb</guid>
       <sparkle:version>1268</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 24 Jul 2026 03:38:35 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1268 · f298da1</h3><ul><li>Drop the preview-panel debug tracing</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1268 · f298da1&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Drop the preview-panel debug tracing&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1268-beta+f298da1/DuoPaste-0.1.1268-beta+f298da1.dmg" sparkle:edSignature="qvg1BQvjgegctrHzHKjs+UiM0Jwr6d96JVQxQPBmrPRr8JYtwGHaj/xfIxqXMcVyPQP3McpnhrdoiaS9gx43Dg==" length="11688165" type="application/octet-stream" />
     </item>
     <item>
