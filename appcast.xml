@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1268-beta+f298da1</title>
+      <guid isPermaLink="false">f298da15fd0238a93117f832bb1e557c3c2937cb</guid>
+      <sparkle:version>1268</sparkle:version>
+      <sparkle:shortVersionString>0.1.1268-beta+f298da1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Fri, 24 Jul 2026 03:38:35 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1268 · f298da1</h3><ul><li>Drop the preview-panel debug tracing</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1268-beta+f298da1/DuoPaste-0.1.1268-beta+f298da1.dmg" sparkle:edSignature="qvg1BQvjgegctrHzHKjs+UiM0Jwr6d96JVQxQPBmrPRr8JYtwGHaj/xfIxqXMcVyPQP3McpnhrdoiaS9gx43Dg==" length="11688165" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1267-beta+746abed</title>
       <guid isPermaLink="false">746abed381c94cbf1b3261bd128e43c9f6b16d81</guid>
       <sparkle:version>1267</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 24 Jul 2026 03:32:13 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1267 · 746abed</h3><ul><li>Document the AppKit Settings window and preview-panel ordering rules</li><li>Order the preview panel outside the SwiftUI layout pass</li><li>Own the Settings window in AppKit instead of a SwiftUI scene</li><li>Fold image file/image representations of the same SHA</li><li>Read image file blobs through resolved symlinks with retry</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1267 · 746abed&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Document the AppKit Settings window and preview-panel ordering rules&lt;/li&gt;&lt;li&gt;Order the preview panel outside the SwiftUI layout pass&lt;/li&gt;&lt;li&gt;Own the Settings window in AppKit instead of a SwiftUI scene&lt;/li&gt;&lt;li&gt;Fold image file/image representations of the same SHA&lt;/li&gt;&lt;li&gt;Read image file blobs through resolved symlinks with retry&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1267-beta+746abed/DuoPaste-0.1.1267-beta+746abed.dmg" sparkle:edSignature="yvp/RiXVq1lznKCrzVwl/o8qnto8Ge7HoECwpMpaIDeS2JFhHAl0gedDSjH6HAW5EaJ9dmZ4qNSkR3vlB+zgCQ==" length="11689445" type="application/octet-stream" />
     </item>
     <item>
