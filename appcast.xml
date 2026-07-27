@@ -6,6 +6,16 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1270</title>
+      <guid isPermaLink="false">be822a3477b9e8fa7c3bf520f97018e03eba93a2</guid>
+      <sparkle:version>1271</sparkle:version>
+      <sparkle:shortVersionString>0.1.1270</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 27 Jul 2026 08:55:14 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1271 · be822a3</h3><ul><li>Treat UU remote clipboard placeholders as images</li><li>Adopt the LaunchAgent at startup and refuse unknown CLI args</li><li>Drop the preview-panel debug tracing</li><li>Document the AppKit Settings window and preview-panel ordering rules</li><li>Order the preview panel outside the SwiftUI layout pass</li><li>Own the Settings window in AppKit instead of a SwiftUI scene</li><li>Fold image file/image representations of the same SHA</li><li>Read image file blobs through resolved symlinks with retry</li><li>Fix SmartTransport.PeerDecision Equatable to ignore RTT jitter</li><li>Ignore JetBrains IDE project files</li><li>Fix release build actor capture</li><li>Complete R3.3-R4.2 search roadmap</li><li>Add saved search views</li><li>Add custom search date ranges</li><li>Complete iOS sync status roadmap</li><li>Record final R2.1 iPhone verification</li><li>Complete roadmap R0-R2.1 hardening</li><li>Refine cross-device dedup and macOS UI</li><li>Crash hardening + in-flight WIP</li><li>Fix preview identity reuse</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1270/DuoPaste-0.1.1270.dmg" sparkle:edSignature="UQVdvV+4JkaYc+32bPkkOcdzA3IRMvldkslXDSRgNr0lAEQnbvMjMmJJ/J1STgDElLEyElwIQZ+POrEwTNa5Aw==" length="11693635" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1270-beta+be822a3</title>
       <guid isPermaLink="false">be822a3477b9e8fa7c3bf520f97018e03eba93a2</guid>
       <sparkle:version>1270</sparkle:version>
@@ -13,7 +23,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Mon, 27 Jul 2026 08:43:44 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1270 · be822a3</h3><ul><li>Treat UU remote clipboard placeholders as images</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1270 · be822a3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Treat UU remote clipboard placeholders as images&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1270-beta+be822a3/DuoPaste-0.1.1270-beta+be822a3.dmg" sparkle:edSignature="BuhWhWb6jTCQq7bTs2uqa5pHkdFpn55jr5xFTAL5mzSSHBGHnJdFAyJPBrQUM4PztBuTlGVblEYFzTizrpVLBA==" length="11693212" type="application/octet-stream" />
     </item>
     <item>
