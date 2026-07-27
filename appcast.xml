@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1270-beta+be822a3</title>
+      <guid isPermaLink="false">be822a3477b9e8fa7c3bf520f97018e03eba93a2</guid>
+      <sparkle:version>1270</sparkle:version>
+      <sparkle:shortVersionString>0.1.1270-beta+be822a3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 27 Jul 2026 08:43:44 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1270 · be822a3</h3><ul><li>Treat UU remote clipboard placeholders as images</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1270-beta+be822a3/DuoPaste-0.1.1270-beta+be822a3.dmg" sparkle:edSignature="BuhWhWb6jTCQq7bTs2uqa5pHkdFpn55jr5xFTAL5mzSSHBGHnJdFAyJPBrQUM4PztBuTlGVblEYFzTizrpVLBA==" length="11693212" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1269-beta+9c7aa27</title>
       <guid isPermaLink="false">9c7aa273fd80a0d20ea1a422d1e52f93954c1e6f</guid>
       <sparkle:version>1269</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Fri, 24 Jul 2026 03:58:25 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1269 · 9c7aa27</h3><ul><li>Adopt the LaunchAgent at startup and refuse unknown CLI args</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1269 · 9c7aa27&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Adopt the LaunchAgent at startup and refuse unknown CLI args&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1269-beta+9c7aa27/DuoPaste-0.1.1269-beta+9c7aa27.dmg" sparkle:edSignature="Yo+GbkqHWl/iwOPWfZUyNB/piB3CwyKsGCdcHgVcBIlAEVVzW5TGQkHuTjofy/qS0XNztMR1Ljf1fR4TDvatBg==" length="11692004" type="application/octet-stream" />
     </item>
     <item>
