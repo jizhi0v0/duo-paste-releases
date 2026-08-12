@@ -6,13 +6,24 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1278-beta+abae851</title>
+      <guid isPermaLink="false">abae85161622ee3e85cdc676989feaad32fa65d9</guid>
+      <sparkle:version>1278</sparkle:version>
+      <sparkle:shortVersionString>0.1.1278-beta+abae851</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 12 Aug 2026 08:00:46 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1278 · abae851</h3><ul><li>Document the decisions behind the changes landing here</li><li>Add a way back from a search hit to its place in the full list</li><li>Reconcile iOS optimistic state per applied page</li><li>Detach the finished paste task before hiding the panel</li><li>Fix two PullWorker gaps: peer-row upsert and wake during a tick</li><li>Clamp timestamp arithmetic on pre-auth paths</li><li>Skip UU remote placeholders that carry no image bytes</li><li>Disable the search field's text completion list</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1278-beta+abae851/DuoPaste-0.1.1278-beta+abae851.dmg" sparkle:edSignature="EUempXrXFoXG26mq9N+ZDnviF30jkE8vcPDn7uO3PP3SJbjziZG7V+YaeO0vA+mdUZm4OuoCJMK3Ql4JxmCrDg==" length="11711286" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1270</title>
       <guid isPermaLink="false">be822a3477b9e8fa7c3bf520f97018e03eba93a2</guid>
       <sparkle:version>1271</sparkle:version>
       <sparkle:shortVersionString>0.1.1270</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Mon, 27 Jul 2026 08:55:14 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1271 · be822a3</h3><ul><li>Treat UU remote clipboard placeholders as images</li><li>Adopt the LaunchAgent at startup and refuse unknown CLI args</li><li>Drop the preview-panel debug tracing</li><li>Document the AppKit Settings window and preview-panel ordering rules</li><li>Order the preview panel outside the SwiftUI layout pass</li><li>Own the Settings window in AppKit instead of a SwiftUI scene</li><li>Fold image file/image representations of the same SHA</li><li>Read image file blobs through resolved symlinks with retry</li><li>Fix SmartTransport.PeerDecision Equatable to ignore RTT jitter</li><li>Ignore JetBrains IDE project files</li><li>Fix release build actor capture</li><li>Complete R3.3-R4.2 search roadmap</li><li>Add saved search views</li><li>Add custom search date ranges</li><li>Complete iOS sync status roadmap</li><li>Record final R2.1 iPhone verification</li><li>Complete roadmap R0-R2.1 hardening</li><li>Refine cross-device dedup and macOS UI</li><li>Crash hardening + in-flight WIP</li><li>Fix preview identity reuse</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1271 · be822a3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Treat UU remote clipboard placeholders as images&lt;/li&gt;&lt;li&gt;Adopt the LaunchAgent at startup and refuse unknown CLI args&lt;/li&gt;&lt;li&gt;Drop the preview-panel debug tracing&lt;/li&gt;&lt;li&gt;Document the AppKit Settings window and preview-panel ordering rules&lt;/li&gt;&lt;li&gt;Order the preview panel outside the SwiftUI layout pass&lt;/li&gt;&lt;li&gt;Own the Settings window in AppKit instead of a SwiftUI scene&lt;/li&gt;&lt;li&gt;Fold image file/image representations of the same SHA&lt;/li&gt;&lt;li&gt;Read image file blobs through resolved symlinks with retry&lt;/li&gt;&lt;li&gt;Fix SmartTransport.PeerDecision Equatable to ignore RTT jitter&lt;/li&gt;&lt;li&gt;Ignore JetBrains IDE project files&lt;/li&gt;&lt;li&gt;Fix release build actor capture&lt;/li&gt;&lt;li&gt;Complete R3.3-R4.2 search roadmap&lt;/li&gt;&lt;li&gt;Add saved search views&lt;/li&gt;&lt;li&gt;Add custom search date ranges&lt;/li&gt;&lt;li&gt;Complete iOS sync status roadmap&lt;/li&gt;&lt;li&gt;Record final R2.1 iPhone verification&lt;/li&gt;&lt;li&gt;Complete roadmap R0-R2.1 hardening&lt;/li&gt;&lt;li&gt;Refine cross-device dedup and macOS UI&lt;/li&gt;&lt;li&gt;Crash hardening + in-flight WIP&lt;/li&gt;&lt;li&gt;Fix preview identity reuse&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1270/DuoPaste-0.1.1270.dmg" sparkle:edSignature="UQVdvV+4JkaYc+32bPkkOcdzA3IRMvldkslXDSRgNr0lAEQnbvMjMmJJ/J1STgDElLEyElwIQZ+POrEwTNa5Aw==" length="11693635" type="application/octet-stream" />
     </item>
     <item>
