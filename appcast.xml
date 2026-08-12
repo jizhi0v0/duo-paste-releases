@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1279-beta+8dccf16</title>
+      <guid isPermaLink="false">8dccf164b5e1391d5d4d17bcaa6227d7dd1297f0</guid>
+      <sparkle:version>1279</sparkle:version>
+      <sparkle:shortVersionString>0.1.1279-beta+8dccf16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 12 Aug 2026 08:25:28 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1279 · 8dccf16</h3><ul><li>Give the app an icon</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1279-beta+8dccf16/DuoPaste-0.1.1279-beta+8dccf16.dmg" sparkle:edSignature="fovJX10XYEQqUHxEBktR3mCqiq2CyFBFscmvYl9i98kexaoZPFaQsG4Pgs/hJEjy1pvhMZWNvwpiH4CGGu87BA==" length="12655811" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1278-beta+abae851</title>
       <guid isPermaLink="false">abae85161622ee3e85cdc676989feaad32fa65d9</guid>
       <sparkle:version>1278</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 12 Aug 2026 08:00:46 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1278 · abae851</h3><ul><li>Document the decisions behind the changes landing here</li><li>Add a way back from a search hit to its place in the full list</li><li>Reconcile iOS optimistic state per applied page</li><li>Detach the finished paste task before hiding the panel</li><li>Fix two PullWorker gaps: peer-row upsert and wake during a tick</li><li>Clamp timestamp arithmetic on pre-auth paths</li><li>Skip UU remote placeholders that carry no image bytes</li><li>Disable the search field's text completion list</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1278 · abae851&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Document the decisions behind the changes landing here&lt;/li&gt;&lt;li&gt;Add a way back from a search hit to its place in the full list&lt;/li&gt;&lt;li&gt;Reconcile iOS optimistic state per applied page&lt;/li&gt;&lt;li&gt;Detach the finished paste task before hiding the panel&lt;/li&gt;&lt;li&gt;Fix two PullWorker gaps: peer-row upsert and wake during a tick&lt;/li&gt;&lt;li&gt;Clamp timestamp arithmetic on pre-auth paths&lt;/li&gt;&lt;li&gt;Skip UU remote placeholders that carry no image bytes&lt;/li&gt;&lt;li&gt;Disable the search field's text completion list&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1278-beta+abae851/DuoPaste-0.1.1278-beta+abae851.dmg" sparkle:edSignature="EUempXrXFoXG26mq9N+ZDnviF30jkE8vcPDn7uO3PP3SJbjziZG7V+YaeO0vA+mdUZm4OuoCJMK3Ql4JxmCrDg==" length="11711286" type="application/octet-stream" />
     </item>
     <item>
