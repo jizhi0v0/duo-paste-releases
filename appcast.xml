@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1281-beta+955a92d</title>
+      <guid isPermaLink="false">955a92d117eeb2ba94bfd2b98af6b4b33f4473e9</guid>
+      <sparkle:version>1281</sparkle:version>
+      <sparkle:shortVersionString>0.1.1281-beta+955a92d</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 12 Aug 2026 09:05:33 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1281 · 955a92d</h3><ul><li>Fix the asset verification step: CI python and the + in asset names</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1281-beta+955a92d/DuoPaste-0.1.1281-beta+955a92d.dmg" sparkle:edSignature="RODY80uDbEaRqro8bjohtxhv/49tUNqmBJjaYSqS97nXMKEgJrW8g4ZgeTUO3xPNIOhWEgCeLUz3rR+EA6E9Ag==" length="12655963" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1280-beta+6b0e543</title>
       <guid isPermaLink="false">6b0e5433df70d41a6e644ee9a5fca7d675f6f1f2</guid>
       <sparkle:version>1280</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 12 Aug 2026 08:45:48 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1280 · 6b0e543</h3><ul><li>Decide the release upload by the API, not by the upload step's exit code</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1280 · 6b0e543&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Decide the release upload by the API, not by the upload step's exit code&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1280-beta+6b0e543/DuoPaste-0.1.1280-beta+6b0e543.dmg" sparkle:edSignature="uPAAep/S+CGawLNJ+e3Far/H8fk0IxKVg7Nr9U2DOqFg0EbOTMxSpcN2/qm5x63w1G0kQcu6ayc1lPY/PDtbAg==" length="12655949" type="application/octet-stream" />
     </item>
     <item>
