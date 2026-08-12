@@ -6,6 +6,17 @@
     <description>DuoPaste daemon updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1280-beta+6b0e543</title>
+      <guid isPermaLink="false">6b0e5433df70d41a6e644ee9a5fca7d675f6f1f2</guid>
+      <sparkle:version>1280</sparkle:version>
+      <sparkle:shortVersionString>0.1.1280-beta+6b0e543</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 12 Aug 2026 08:45:48 +0000</pubDate>
+      <description><![CDATA[<h3>Build 1280 · 6b0e543</h3><ul><li>Decide the release upload by the API, not by the upload step's exit code</li></ul>]]></description>
+      <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1280-beta+6b0e543/DuoPaste-0.1.1280-beta+6b0e543.dmg" sparkle:edSignature="uPAAep/S+CGawLNJ+e3Far/H8fk0IxKVg7Nr9U2DOqFg0EbOTMxSpcN2/qm5x63w1G0kQcu6ayc1lPY/PDtbAg==" length="12655949" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.1279-beta+8dccf16</title>
       <guid isPermaLink="false">8dccf164b5e1391d5d4d17bcaa6227d7dd1297f0</guid>
       <sparkle:version>1279</sparkle:version>
@@ -13,7 +24,7 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <pubDate>Wed, 12 Aug 2026 08:25:28 +0000</pubDate>
-      <description><![CDATA[<h3>Build 1279 · 8dccf16</h3><ul><li>Give the app an icon</li></ul>]]></description>
+      <description>&lt;h3&gt;Build 1279 · 8dccf16&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Give the app an icon&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/jizhi0v0/duo-paste-releases/releases/download/v0.1.1279-beta+8dccf16/DuoPaste-0.1.1279-beta+8dccf16.dmg" sparkle:edSignature="fovJX10XYEQqUHxEBktR3mCqiq2CyFBFscmvYl9i98kexaoZPFaQsG4Pgs/hJEjy1pvhMZWNvwpiH4CGGu87BA==" length="12655811" type="application/octet-stream" />
     </item>
     <item>
